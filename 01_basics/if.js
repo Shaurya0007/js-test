@@ -6,7 +6,7 @@ console.log('hey! may i vote?')
 let age = 23;
 if(age >= 18){
     console.log("you can vote");
-    console.log("you are aligible for vote");
+    console.log("you are aligible 1 for vote");
 
 }
 
