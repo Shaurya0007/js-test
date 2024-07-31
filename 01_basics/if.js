@@ -188,7 +188,7 @@ if(code > "rem"){
         console.log("red")
     }
 } else{
-    console.log("green green")
+    console.log("green")
 }
 
 
