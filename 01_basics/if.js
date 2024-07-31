@@ -188,5 +188,15 @@ if(code > "rem"){
         console.log("red")
     }
 } else{
-    console.log("green")
+    console.log("green green")
 }
+
+
+function getName(string) {
+    if (string.length > 5) {
+        return string.slice(0, 5);
+    }
+}
+
+let result = getName('GOLU');
+console.log('result ', result);
